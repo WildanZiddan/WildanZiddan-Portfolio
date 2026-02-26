@@ -2,7 +2,7 @@
 
 > A clean and responsive **personal portfolio website** built with vanilla HTML, CSS, and JavaScript — showcasing my projects, skills, and experience as a Fullstack Developer.
 
-🌐 **Live Demo:** [wildanziddan.github.io](https://github.com/WildanZiddan) <!-- replace with your actual URL -->
+🌐 **Live Demo:** [wildanziddan-portfolio.vercel.app](https://wildanziddan-portfolio.vercel.app/) <!-- replace with your actual URL -->
 
 ---
 
